@@ -20,4 +20,5 @@ def find_min_value(array)
     
   else
     
+    if array
 end
