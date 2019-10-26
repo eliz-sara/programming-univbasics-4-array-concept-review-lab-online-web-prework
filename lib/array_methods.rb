@@ -20,5 +20,6 @@ def find_min_value(array)
     
   else
     
-    if array[count]
+    if array[count] < min
+      a
 end
